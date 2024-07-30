@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! Here you can find my projects and learn more about my work in data science, machine learning, and analytics.
+Welcome to my portfolio repository! Here you can find my projects and learn more about my work in data science, machine learning, analytics, and optimization.
 
 ## Projects
 
