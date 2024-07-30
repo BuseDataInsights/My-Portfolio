@@ -20,7 +20,7 @@ This project involves segmenting customers based on their annual income and spen
 2. View the results in the output folder.
 
 ## Examples
-Provide examples of how to use the project, including code snippets and expected outputs.
+![Customer Segments](customer_segments.png)
 
 ## Contact
 - **Email:** busekeles@sabanciuniv.edu
