@@ -4,14 +4,14 @@ Welcome to my portfolio repository! Here you can find my projects and learn more
 
 ## Projects
 
-### [Project 1: Predicting Customer Churn](project1/README.md)
-Developed a machine learning model to predict customer churn for a telecommunications company. The project involves data cleaning, feature engineering, and model selection.
+### [Customer Segmentation with K-Means Clustering](customer-segmentation/README.md)
+Segmenting customers based on their annual income and spending score using K-Means clustering.
 
-### [Project 2: Sentiment Analysis on Social Media](project2/README.md)
-Implemented a sentiment analysis model to classify the sentiment of social media posts. The project includes data scraping, text preprocessing, and model evaluation.
+### [Sentiment Analysis on Social Media](sentiment-analysis/README.md)
+Implemented a sentiment analysis model to classify the sentiment of social media posts.
 
-### [Project 3: Sales Forecasting](project3/README.md)
-Built a time series forecasting model to predict future sales for a retail company. The project covers data visualization, model training, and accuracy assessment.
+### [Sales Forecasting](sales-forecasting/README.md)
+Built a time series forecasting model to predict future sales for a retail company.
 
 ## About Me
 
